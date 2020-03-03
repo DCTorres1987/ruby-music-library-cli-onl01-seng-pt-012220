@@ -1,6 +1,6 @@
 require 'pry'
 
-class Musi
+class MusicLibraryController
   
   attr_accessor :path
 
